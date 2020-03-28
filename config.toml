@@ -1,0 +1,4 @@
+baseURL = "http://hannesdatta.com/"
+languageCode = "en-us"
+title = "Hannes Datta"
+theme = "academia"
