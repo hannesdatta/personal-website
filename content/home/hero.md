@@ -42,6 +42,8 @@ hero_media = "hannes-square.jpg"
   label = "Contact me"
 
 +++
-## Hey, I'm **Hannes**, an **Associate Professor** of **Marketing** at **Tilburg University**
+## Hey, I'm **Hannes**, an **Associate Professor** of **Marketing** at **Tilburg University**.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services, on digital TV), branding, and retailing.
+
+<!--Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece # f classical Latin literature from 45 BC.-->

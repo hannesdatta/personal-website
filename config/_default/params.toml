@@ -13,7 +13,7 @@ day_night = false
 font = "hannes-font"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Hannes Datta is an Associate Professor of Marketing at Tilburg University, in the Netherlands. Learn more about "
+description = "Hannes Datta is an Associate Professor of Marketing at Tilburg University, in the Netherlands. Learn more about his research here."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "hannes.jpg"
@@ -52,15 +52,15 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "h.datta@uvt.nl"
-phone = "+31 134 668 938"
+phone = "+31 13 466 8938"
 address = "Warandelaan 2, Koopmans Building, Room K728, 5037 AB Tilburg, Netherlands"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00
-                  Wednesday 09:00 to 10:00"""
+#office_hours = """Monday 10:00 to 13:00
+#                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/hannesdatta/"
+#appointment_url = "https://calendly.com/hannesdatta/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -68,6 +68,9 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/hannesdatta"},
   {icon = "whatsapp", icon_pack = "fab", name = "Whatsapp Me", link = "https://api.whatsapp.com/send?phone=+31134668938"},
   {icon = "github", icon_pack = "fab", name = "Explore my projects", link = "https://github.com/hannesdatta"},
+  {icon = "youtube", icon_pack = "fab", name = "See my videos on YouTube", link = "https://www.youtube.com/user/hannesd84/"},
+  {icon = "chalkboard-teacher", icon_pack = "fas", name = "See my boot camp on managing data- and computation-intensive projects", link = "http://www.tilburgsciencehub.com"},
+
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

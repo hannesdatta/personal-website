@@ -19,6 +19,17 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Journal of Marketing"
+  organization_url = "https://journals.sagepub.com/editorial-board/JMX"
+  title = "Member of the editorial review board"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-25"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Tilburg University"
   organization_url = "https://research.tilburguniversity.edu/en/persons/hannes-datta"
   title = "Faculty-wide recognition for Teaching Excellence"
@@ -69,13 +80,23 @@ date_format = "2006"
   description = ""
 
 [[item]]
-  organization = "Marketing Science Institute (MSI)"
+  organization = "Journal of Marketing/Marketing Science Institute (MSI)"
   organization_url = "https://www.msi.org/research/awards/msi-h.-paul-root-award/"
-  title = "Winning of the 2017 AMA/MSI H. Paul Root Award"
+  title = "Winner of the 2017 AMA/MSI H. Paul Root Award"
   url = "https://www.msi.org/research/awards/msi-h.-paul-root-award/"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Netherlands Organisation for Scientific Research (NWO)"
+  organization_url = "https://www.nwo.nl/en"
+  title = "Veni Talent Scheme"
+  url = "https://www.nwo.nl/en"
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = "2021-01-01"
   description = ""
 
 +++

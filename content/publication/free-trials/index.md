@@ -4,8 +4,8 @@ authors:
 - admin
 - B. Foubert
 - H.J. van Heerde
-date: "2014-10-01T00:00:00Z"
-doi: "https://doi.org/10.1509/jmr.12.0160"
+date: "2015-04-01T00:00:00Z"
+doi: "10.1509/jmr.12.0160"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-04-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2015-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Marketing Research, 52*(2)"
+publication: "*Journal of Marketing Research*, 52(2), pp. 217-234"
 publication_short: ""
 
 abstract: Many service firms acquire customers by offering free-trial promotions. A crucial challenge is to retain customers acquired with these free trials. To address this challenge, firms need to understand how free-trial customers differ from regular customers in terms of their decision making to retain the service. This article conceptualizes how a customer’s retention decision is driven by marketing communication and usage behavior, and develops hypotheses about the impact of free-trial acquisition on this process. To test the hypotheses, the authors model a customer’s retention and usage decisions, distinguishing between usage of a flat-rate service and usage of a pay-per-use service. The model allows for unobserved heterogeneity and corrects for selection effects and endogeneity. Based on household panel data from a digital TV service, the authors find systematic behavioral differences which make the average customer lifetime value (CLV) of free-trial customers 59% lower than that of regular customers. However, free-trial customers are more responsive to marketing communication and usage rates, which offers opportunities to target marketing efforts and enhance retention rates, CLV, and customer equity.
@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pure.uvt.nl/ws/portalfiles/portal/19561149/JMR12_0160_WebPosting.pdf
+url_pdf: https://research.tilburguniversity.edu/files/19561149/JMR12_0160_WebPosting.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

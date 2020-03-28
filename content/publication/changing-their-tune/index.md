@@ -5,7 +5,7 @@ authors:
 - George Knox
 - Bart Bronnenberg
 date: "2018-01-01T00:00:00Z"
-doi: "https://doi.org/10.1287/mksc.2017.1051"
+doi: "10.1287/mksc.2017.1051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Marketing Science, 37*(1)"
+publication: "*Marketing Science*, 37 (1), pp. 5-21"
 publication_short: ""
 
 abstract: Instead of purchasing individual content, streaming adopters rent access to libraries, with content being free at the margin. In this paper, we study how the adoption of music streaming affects consumers’ listening behavior. Using a unique panel data set of individual consumers’ listening histories across many digital music platforms, adoption of streaming leads to very large increases in quantity and diversity of consumption in the first months after adoption. Although the effects attenuate somewhat over time, even after half a year, adopters play substantially more, and more diverse, music. Relative to music ownership where experimentation is expensive, adoption of streaming increases new music discovery, and users’ best discoveries have higher play-rates. We discuss the implications for consumers and producers of music.

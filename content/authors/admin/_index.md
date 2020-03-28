@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "http://tiu.nu/datta"
+- url : "https://research.tilburguniversity.edu/en/persons/hannes-datta/publications/"
   label : "Explore my research"
 
 
@@ -20,27 +20,27 @@ role: Associate Professor of Marketing
 # Organizations/Affiliations
 organizations:
 - name: Tilburg University
-  url: "http://tiu.nu/datta"
+  url: "https://research.tilburguniversity.edu/en/persons/hannes-datta/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services).
+bio: I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services), branding, and retailing.
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
-- Playing music
+- Impact of new (digital) technologies
+- Digital platforms
 - Streaming services
-- Large data sets analysis
-- Quantitative marketing
-- Retailing
+- Branding
+- Marketing Analytics
 
 education:
   courses:
   - course: Ph.D. in Marketing
-    institution: Maastricht University, 2013
+    institution: Maastricht University, 2014
     year:
-  - course: M.Sc. Business Research (Marketing)
+  - course: M.Sc. Business Research (Marketing; cum laude)
     institution: Maastricht University, 2010
     year:
   - course: B.Sc. Business Administration
@@ -72,12 +72,19 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
 # - Visitors
 ---
 
-As an Associate Professor at one of the world's leading marketing departments, I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services, on digital TV).
+As an Associate Professor at one of the [world's leading marketing departments](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing), I conduct
+research in the area of digital media consumption (e.g., on streaming services, on digital TV), branding, and retailing.
 
-I have gained substantial experience working with large data sets and cloud computing. Apart from my interest in new media, I work on projects in the area of retailing.
+My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc).
+
+I currently serve on the editorial review board of the *Journal of Marketing* (2020), and was named an [*MSI Young Scholar*](https://www.msi.org/research/msi-young-scholars/) (2019). For my research, I have won the  *Journal of Marketing's* [H. Paul Root Award](http://www.msi.org/research/awards/msi-h.-paul-root-award/) (2017).
+
+<!-- My teaching has been awarded with Tilburg University's Teacher of the Year Award (2016), and Tilburg School of Economics and Management's Best Teacher Award (2019).-->
+
+I have received my MSc Business Research and PhD in Quantitative Marketing at Maastricht University, The Netherlands.
