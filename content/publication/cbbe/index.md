@@ -34,24 +34,24 @@ tags:
 - Marketing mix elasticities
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "Teaching material"
+   url: "https://www.ama.org/2019/02/05/how-well-does-consumer-based-brand-equity-align-with-sales-based-brand-equity-and-marketing-mix-response/"
 url_pdf: https://research.tilburguniversity.edu/files/19561009/JM.15.0340.final_paper_withappendix.pdf
 # url_code: ''
 url_dataset: 'http://hdl.handle.net/10411/LJJNMU'
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://pure.uvt.nl/admin/files/32758992/Brand_Equity_public_slidedeck.pdf'
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.youtube.com/watch?v=LP8codXiqAE'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: '' # Market Shares (Play Counts) in the Raw Data'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

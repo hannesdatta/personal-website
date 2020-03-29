@@ -23,7 +23,7 @@ organizations:
   url: "https://research.tilburguniversity.edu/en/persons/hannes-datta/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services), branding, and retailing.
+bio: I develop advanced econometric models that guide managerial decision-making and inform public policy in the area of digital media consumption (e.g., on streaming services), branding, and retailing. Watch an overview video [here](http://youtube.com/watch?v=OyUGo7s2HJY).
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -79,7 +79,7 @@ email: ""
 ---
 
 As an Associate Professor at one of the [world's leading marketing departments](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing), I conduct
-research in the area of digital media consumption (e.g., on streaming services, on digital TV), branding, and retailing.
+research in the area of digital media consumption (e.g., on streaming services, on digital TV), branding, and retailing. Watch a video about my research here (in [English](http://youtube.com/watch?v=OyUGo7s2HJY), in [Dutch](https://youtu.be/NXYZ5zIyjMY)).
 
 My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc).
 

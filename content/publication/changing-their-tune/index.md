@@ -37,11 +37,11 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1051
-# url_code: ''
+url_code: 'https://services.informs.org/dataset/download.php?doi=mksc.2017.1051'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://pure.uvt.nl/admin/files/32758982/spotify_slides.pdf'
 # url_source: ''
 # url_video: ''
 
@@ -50,7 +50,7 @@ url_pdf: https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1051
 image:
   caption: 'Market Shares (Play Counts) in the Raw Data'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
