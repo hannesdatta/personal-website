@@ -2,7 +2,9 @@
 title: R Package "marketingtools"
 summary: R Package with selected functions that I programmed for some of my research projects.
 tags:
-- Demo
+- open science
+- package
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
