@@ -66,7 +66,7 @@ social:
   link: https://github.com/hannesdatta
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/nly8mnpv8zfjfhg/Datta_CV_Tilburg.pdf?dl=0
+  link: https://www.dropbox.com/s/txosh9yogk9i5xb/Datta_CV_Tilburg.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

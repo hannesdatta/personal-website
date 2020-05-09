@@ -18,14 +18,20 @@
   url = "#posts"
   weight = 30
 
+#[[main]]
+#  name = "Teaching"
+#  url = "courses/"
+#  weight = 40
+
 [[main]]
-  name = "Teaching"
-  url = "courses/"
+  name = "Projects"
+  url = "project/"
   weight = 40
+
 
 [[main]]
   name = "CV"
-  url = "https://www.dropbox.com/s/nly8mnpv8zfjfhg/Datta_CV_Tilburg.pdf?dl=0"
+  url = "https://www.dropbox.com/s/txosh9yogk9i5xb/Datta_CV_Tilburg.pdf?dl=0"
   weight = 50
 
 [[main]]

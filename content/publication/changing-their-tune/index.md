@@ -41,9 +41,9 @@ url_code: 'https://services.informs.org/dataset/download.php?doi=mksc.2017.1051'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://pure.uvt.nl/admin/files/32758982/spotify_slides.pdf'
+url_slides: 'https://pure.uvt.nl/admin/files/38344954/Spotify.pdf'
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
