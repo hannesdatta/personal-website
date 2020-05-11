@@ -29,6 +29,7 @@ url_video: ""
 
 I have developed a bunch of material to guide students in their Master thesis supervision process:
 
-- [Thesis guide](https://www.dropbox.com/s/g66w6bn0q30gxio/thesis_guide.pdf?dl=0)
+- [Thesis companion (new!)](https://thesis.hannesdatta.com)
+- [Thesis guide - PDF, legacy](https://www.dropbox.com/s/g66w6bn0q30gxio/thesis_guide.pdf?dl=0)
 - [Tilburg Science Hub - reproducible workflows to manage data- and computation-intensive projects](http://tilburgsciencehub.com)
 - [Tutorial for reproducible workflows](http://tilburgsciencehub.com/tutorial)
