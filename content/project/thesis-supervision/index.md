@@ -1,9 +1,9 @@
 ---
 title: Thesis supervision
-summary: A collection of material I use in supervision Master thesis students.
+summary: A collection of materials I use in supervising Master thesis students at Tilburg University.
 tags:
 - teaching
-date: "2016-04-27T00:00:00Z"
+date: "2020-05-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,11 @@ image:
   caption:
   focal_point: Smart
 
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
