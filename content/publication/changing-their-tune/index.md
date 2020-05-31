@@ -33,9 +33,9 @@ tags:
 - Variety
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "Web Appendix"
+   url: "https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2017.1051/suppl_file/mksc.2017.1051-sm.pdf"
 url_pdf: https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1051
 url_code: 'https://services.informs.org/dataset/download.php?doi=mksc.2017.1051'
 # url_dataset: ''
