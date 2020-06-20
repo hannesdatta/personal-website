@@ -33,7 +33,7 @@ interests:
 - Digital platforms
 - Streaming services
 - Branding
-- Marketing Analytics
+- Marketing analytics
 
 education:
   courses:
@@ -80,6 +80,8 @@ email: ""
 
 As an Associate Professor at one of the [world's leading marketing departments](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing), I conduct
 research in the area of digital media consumption (e.g., on streaming services, on digital TV), branding, and retailing. Watch a video about my research here (in [English](http://youtube.com/watch?v=OyUGo7s2HJY), in [Dutch](https://youtu.be/NXYZ5zIyjMY)).
+
+I am currently nominated to become a member of ["The Young Academy"](https://www.knaw.nl/en/about-us/young-academy), part of the [Royal Netherlands Academy of Arts and Sciences](https://www.knaw.nl/en). Read about my [nomination statement here](project/young-academy).
 
 My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc).
 
