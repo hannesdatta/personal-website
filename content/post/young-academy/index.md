@@ -5,7 +5,7 @@ math: false
 diagram: false
 image:
   placement: 1
-  caption: '<span>Photo by <a href="https://unsplash.com/@dsmacinnes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Danielle MacInnes</a> on <a href="/s/photos/vision?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
+  caption: 'Photo by [Danielle MacInnes on Unsplash](https://unsplash.com/@dsmacinnes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)'
 ---
 
 
