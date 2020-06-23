@@ -1,36 +1,13 @@
 ---
-title: Nomination for membership of KNAW "The Young Academy"
-summary: Read about my vision to advance the scientific climate in The Netherlands
-tags:
-- KNAW
-- Nomination
-- The Young Academy
-date: "2020-06-20T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
-
-links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+title: My vision for The Young Academy to advance the scientific climate in The Netherlands
+date: 2020-06-20
+math: false
+diagram: false
+image:
+  placement: 1
+  caption: '<span>Photo by <a href="https://unsplash.com/@dsmacinnes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Danielle MacInnes</a> on <a href="/s/photos/vision?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
 ---
+
 
 In June 2020, I have been nominated by Tilburg University's Rector Magnificus to become
 a member of ["The Young Academy" of the Royal Netherlands Academy of Arts and Sciences](https://www.knaw.nl/en/about-us/young-academy). As part of my nomination, I was asked to formulate my vision on how to advance the scientific climate in The Netherlands.

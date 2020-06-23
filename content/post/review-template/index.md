@@ -1,30 +1,11 @@
 ---
-title: Conducting peer review
-summary: Sharing a useful template to write a review
-tags:
-- templates
-date: "2020-06-22T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
+title: Start your peer review with this template
+date: 2020-06-23
+math: false
+diagram: false
 image:
-  caption:
-  focal_point: Smart
-
-#links:
-#url_code: "1"
-#url_pdf: ""
-#url_slides: ""
-#url_video: "https://videocollege.uvt.nl/Mediasite/Play/38c4b6d09de440b19370daf018d9ea4d1d"
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-
-#slides: example
+  placement: 1
+  caption: '<span>Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="/s/photos/review?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
 ---
 
 I've recently attended a webinar by the editors of the *Journal of Marketing* on writing efficient peer reviews.
