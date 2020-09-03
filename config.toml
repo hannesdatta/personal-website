@@ -1,4 +1,4 @@
 baseURL = "https://hannesdatta.com/"
 languageCode = "en-us"
 title = "Hannes Datta"
-theme = "academia"
+theme = "academia-hugo"
