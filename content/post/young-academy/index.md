@@ -1,6 +1,7 @@
 ---
 title: My vision for The Young Academy to advance the scientific climate in The Netherlands
 date: 2020-06-20
+lastmod: "2020-09-09T00:00:00Z"
 math: false
 diagram: false
 image:
@@ -10,7 +11,7 @@ image:
 
 
 In June 2020, I have been nominated by Tilburg University's Rector Magnificus to become
-a member of ["The Young Academy" of the Royal Netherlands Academy of Arts and Sciences](https://www.knaw.nl/en/about-us/young-academy). As part of my nomination, I was asked to formulate my vision on how to advance the scientific climate in The Netherlands.
+a member of ["The Young Academy" of the Royal Netherlands Academy of Arts and Sciences](https://www.knaw.nl/en/about-us/young-academy). I have now learnt that I am among those 20 scholars invited to discuss in person their vision on how to advance the scientific climate in The Netherlands. This is the last step in the selection procedure for new members of The Young Academy, so I'm quite excited about this opportunity!
 
 You can find my ideas, discussed along the three key themes of The Young Academy, below (in Dutch).
 
