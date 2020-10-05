@@ -83,7 +83,7 @@ research in the area of digital media consumption (e.g., on streaming services, 
 
 I am currently nominated for membership in ["The Young Academy"](https://www.knaw.nl/en/about-us/young-academy), part of the [Royal Netherlands Academy of Arts and Sciences](https://www.knaw.nl/en). Read about my [nomination statement here](project/young-academy).
 
-My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc). My work has been covered in national and international [media outlets](https://research.tilburguniversity.edu/en/persons/hannes-datta/clippings/).
+My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc). My work has obtained national and international [news coverage](https://research.tilburguniversity.edu/en/persons/hannes-datta/clippings/).
 
 I currently serve on the editorial review board of the *Journal of Marketing* (2020), and was named an [*MSI Young Scholar*](https://www.msi.org/research/msi-young-scholars/) (2019). For my research, I have won the *Journal of Marketing's* [H. Paul Root Award](http://www.msi.org/research/awards/msi-h.-paul-root-award/) (2017).
 
