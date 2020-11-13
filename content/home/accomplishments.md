@@ -29,6 +29,16 @@ date_format = "2006"
   description = ""
 
 
+  [[item]]
+    organization = "Royal Netherlands Academy of Arts and Sciences - Young Academy"
+    organization_url = "https://www.dejongeakademie.nl"
+    title = "Final Interview (Top 20)"
+    url = "https://www.knaw.nl/en/about-us/young-academy"
+    certificate_url = ""
+    date_start = "2020-10-07"
+    date_end = ""
+    description = ""
+
 [[item]]
   organization = "Tilburg University"
   organization_url = "https://research.tilburguniversity.edu/en/persons/hannes-datta"
