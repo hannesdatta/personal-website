@@ -19,6 +19,26 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Tilburg University"
+  organization_url = "https://www.tilburguniversity.edu/research/young-academy"
+  title = "Member of the Tilburg University Young Academy"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2023-08-31"
+  description = ""
+
+[[item]]
+  organization = "International Journal of Research in Marketing"
+  organization_url = "https://www.journals.elsevier.com/international-journal-of-research-in-marketing/editorial-board"
+  title = "Member of the editorial review board"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Journal of Marketing"
   organization_url = "https://journals.sagepub.com/editorial-board/JMX"
   title = "Member of the editorial review board"
