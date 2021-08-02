@@ -31,7 +31,7 @@ tags:
 - variety
 - recommendation algorithms
 
-featured: false
+featured: true
 
 links:
 

@@ -1,9 +1,9 @@
 ---
 title: "Fields of Gold: Generating Relevant and Credible Insights Via Web Scraping and APIs"
 authors:
-- admin
 - Johannes Boegershausen
 - Abhishek Borah
+- admin
 - Andrew T. Stephen
 date: "2021-07-01T00:00:00Z"
 doi: "10.2139/ssrn.3820666"
