@@ -8,5 +8,5 @@ weight = 20  # Order that this section will appear in.
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
-avatar_image= "working.jpg"
+avatar_image= "20211011-HANNESDATTA-5536-NL-COMPRESSED.jpg"
 +++
