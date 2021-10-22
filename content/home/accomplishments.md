@@ -48,6 +48,15 @@ date_format = "2006"
   date_end = ""
   description = ""
 
+  [[item]]
+    organization = "Marketing Science"
+    organization_url = "https://pubsonline.informs.org/page/mksc/editorial-board"
+    title = "Member of the editorial review board"
+    url = ""
+    certificate_url = ""
+    date_start = "2022-01-01"
+    date_end = ""
+    description = ""
 
   [[item]]
     organization = "Royal Netherlands Academy of Arts and Sciences - Young Academy"
