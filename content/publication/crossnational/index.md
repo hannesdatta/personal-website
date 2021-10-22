@@ -6,7 +6,7 @@ authors:
 - Marnik G. Dekimpe
 - Jan-Benedict E.M. Steenkamp
 date: "2021-10-22T00:00:00Z"
-doi: "10.1509/jm.15.0340"
+doi: "10.1177/00222437211058102"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-22T00:00:00Z"
