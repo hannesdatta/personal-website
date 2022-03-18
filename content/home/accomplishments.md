@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Sheth Foundation/Journal of Marketing Award Finalist"
+  organization_url = "https://journals.sagepub.com/home/jmx"
+  title = "Finalist for the 2022 Sheth Foundation/Journal of Marketing Award"
+  url = "https://www.ama.org/article-awards-journal-of-marketing/"
+  certificate_url = ""
+  date_start = "2022-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Tilburg University"
   organization_url = "https://www.tilburguniversity.edu/research/young-academy"
   title = "Member of the Tilburg University Young Academy"

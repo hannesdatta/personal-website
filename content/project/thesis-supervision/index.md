@@ -6,14 +6,14 @@ tags:
 date: "2020-05-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://thesis.hannesdatta.com"
 
 image:
   caption:
   focal_point: Smart
 
 #links:
-#url_code: ""
+url_code: "https://github.com/hannesdatta/thesis-guide"
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
@@ -31,5 +31,4 @@ I have developed a bunch of material to guide students in their Master thesis su
 
 - [Thesis companion (new!)](https://thesis.hannesdatta.com)
 - [Thesis guide - PDF, legacy](https://www.dropbox.com/s/g66w6bn0q30gxio/thesis_guide.pdf?dl=0)
-- [Tilburg Science Hub - reproducible workflows to manage data- and computation-intensive projects](http://tilburgsciencehub.com)
-- [Tutorial for reproducible workflows](http://tilburgsciencehub.com/tutorial)
+- [Tilburg Science Hub - reproducible workflows to manage data- and computation-intensive projects](https://tilburgsciencehub.com)
