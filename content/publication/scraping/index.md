@@ -1,11 +1,11 @@
 ---
-title: "Fields of Gold: Generating Relevant and Credible Insights Via Web Scraping and APIs"
+title: "Fields of Gold: Web Scraping and APIs for Impactful Marketing Insights"
 authors:
 - Johannes Boegershausen
-- Abhishek Borah
 - admin
+- Abhishek Borah
 - Andrew T. Stephen
-date: "2021-07-01T00:00:00Z"
+date: "2022-02-02T00:00:00Z"
 doi: "10.2139/ssrn.3820666"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,18 +22,25 @@ publication_types: ["2"]
 #publication: "*Marketing Science*, 37 (1), pp. 5-21"
 #publication_short: ""
 
-abstract: Marketing researchers increasingly use web scraping and Application Programming Interfaces (APIs) to collect publicly available data from the internet. While guidance on the technicalities of collecting web data are abundant, much of the design decisions involved in collecting web data have remained largely neglected and undiscussed. A lack of awareness and understanding of these design decisions, both among authors and reviewers, threatens the credibility of research findings based on web data. To address these issues, this article develops a systematic workflow that guides researchers across the different stages of collecting web data. Throughout, the authors discuss how various design decisions affect the relevance and credibility of research findings. The workflow is accompanied by a comprehensive review of the use of web data in marketing research, identifying common themes of how web data has enriched past work. Finally, the authors highlight promising avenues for how future work might leverage web data to address important marketing questions and disseminate research findings.
+abstract: Marketing scholars increasingly use web scraping and Application Programming Interfaces (APIs) to collect data from the internet. Yet, despite its widespread adoption across methodological traditions and substantive topics, a reflection about the challenges in collecting such data is lacking. How can researchers ensure that the datasets generated via web scraping and APIs are valid? Existing resources narrowly focus on technical details of extracting web data. These resources do not cover the broad range of validity concerns arising from researchers’ design decisions during the extraction. This article proposes a novel methodological framework that outlines how to maximize validity when selecting, designing, and collecting web data. Importantly, the framework highlights how addressing validity concerns requires the joint consideration of idiosyncratic technical and legal challenges. The authors also demonstrate the impact of web-data-based marketing research, how web data is collected and from which sources, and offer a taxonomy of how web data has advanced marketing thought. The article closes with novel research directions to identify, explore, and exploit new fields of gold filled with web data.
 
 
 # Summary. An optional shortened abstract.
-summary: This article develops a systematic workflow that guides researchers across the different stages of collecting web data by means of web scraping and Application Protocol Interfaces (APIs).
+summary: This article develops a methodological framework that guides researchers in collecting data using web scraping and Application Programming Interfaces (APIs).
 
 tags:
 - web scraping
 - application programming interface (APIs)
-- field data
 - research methods
-- workflow
+- validity
+- marketing
+- web data
+- internet
+- user-generated content
+- online reviews
+- social media
+- online search
+- internet marketing
 - open science
 - open data
 
@@ -42,11 +49,10 @@ featured: true
 links:
 
 url_pdf: https://dx.doi.org/10.2139/ssrn.3820666
-
-# url_code: ''
+url_code: https://github.com/hannesdatta/webdata-in-marketing
 # url_dataset: ''
 # url_poster: ''
-# url_project: ''
+url_project: https://odcm.hannesdatta.com
 #url_slides: 'https://pure.uvt.nl/admin/files/38344954/Spotify.pdf'
 # url_source: ''
 #url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
@@ -54,7 +60,7 @@ url_pdf: https://dx.doi.org/10.2139/ssrn.3820666
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'A Workflow for Collecting Web Data'
+  caption: 'Methodological Framework for Collecting Web Data'
   focal_point: ""
   preview_only: false
 

@@ -1,11 +1,11 @@
 ---
-title: "Cross-National Differences in Market Response: Line-Length, Price, and Distribution Elasticities in Fourteen Indo-Pacific Rim Economies?"
+title: "Cross-National Differences in Market Response: Line-Length, Price, and Distribution Elasticities in 14 Indo-Pacific Rim Economies"
 authors:
 - admin
 - Harald J. van Heerde
 - Marnik G. Dekimpe
 - Jan-Benedict E.M. Steenkamp
-date: "2021-10-22T00:00:00Z"
+date: "2022-02-21T00:00:00Z"
 doi: "10.1177/00222437211058102"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Journal of Marketing Research*, forthcoming"
 publication_short: ""
 
-abstract: Our field’s knowledge of marketing-mix elasticities is largely restricted to developed countries in the North-Atlantic region, even though other parts of the world—especially the Indo-Pacific Rim region—have become economic powerhouses. To better allocate marketing budgets, firms need to have information about marketing-mix elasticities for countries outside the North-Atlantic region. We use data covering over 1,600 brands from 14 product categories collected in 7 developed and 7 emerging Indo-Pacific Rim countries across more than 10 years to estimate marketing elasticities for line length, price, and distribution, and examine which brand, category, and country factors influence these elasticities. Averaged across brands, categories, and countries, line-length elasticity is .459, price elasticity is -.422, and distribution elasticity is .368, but with substantial variation across brands, categories, and countries. Contrary to what has been suggested, we find no systematic differences in marketing responsiveness between emerging and developed economies. Instead, the key country-level factor driving elasticities is societal stratification, with Hofstede’s measure of power inequality (power distance) as its cultural manifestation and income inequality as its economic manifestation. As the effects of virtually all brand, category, and country factors differ across the three marketing-mix instruments, the field needs new theorizing that is contingent on the marketing-mix instrument studied.
+abstract: The field's knowledge of marketing-mix elasticities is largely restricted to developed countries in the North-Atlantic region, even though other parts of the world—especially the Indo-Pacific Rim region—have become economic powerhouses. To better allocate marketing budgets, firms need to have information about marketing-mix elasticities for countries outside the North-Atlantic region. The authors use data covering over 1,600 brands from 14 product categories collected in 7 developed and 7 emerging Indo-Pacific Rim countries across more than 10 years to estimate marketing elasticities for line length, price, and distribution and examine which brand, category, and country factors influence these elasticities. Averaged across brands, categories, and countries, line-length elasticity is .459, price elasticity is −.422, and distribution elasticity is .368, but with substantial variation across brands, categories, and countries. Contrary to what has been suggested in previous research, the authors find no systematic differences in marketing responsiveness between emerging and developed economies. Instead, the key country-level factor driving elasticities is societal stratification, with Hofstede's measure of power inequality (power distance) as its cultural manifestation and income inequality as its economic manifestation. As the effects of virtually all brand, category, and country factors differ across the three marketing-mix instruments, the field needs new theorizing that is contingent on the marketing-mix instrument studied.
 
 # Summary. An optional shortened abstract.
 summary: To better allocate marketing budgets, firms need to have information about marketing-mix elasticities for countries outside the North-Atlantic region. We estimate marketing elasticities for line length, price, and distribution using data covering over 1,600 brands from 14 durable product categories collected in 7 developed and 7 emerging Indo-Pacific Rim countries across more than 10 years.
@@ -36,11 +36,11 @@ tags:
 featured: true
 
 links:
-url_pdf: https://research.tilburguniversity.edu/files/57633946/crossnational_marketingmix.pdf
-# url_code: ''
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/00222437211058102
+url_code: https://github.com/hannesdatta/marketingmix-journal-of-marketing-research
 # url_poster: ''
 # url_project: ''
-# url_source: ''
+url_source: https://doi.org/10.34894/EVPJTY
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
