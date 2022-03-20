@@ -5,7 +5,7 @@ authors:
 - Harald J. van Heerde
 - Marnik G. Dekimpe
 - Jan-Benedict E.M. Steenkamp
-date: "2022-02-21T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: "10.1177/00222437211058102"
 
 # Schedule page publish date (NOT publication's date).
