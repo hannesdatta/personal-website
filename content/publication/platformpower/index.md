@@ -34,12 +34,12 @@ tags:
 featured: true
 
 links:
-#url_pdf: https://dx.doi.org/10.2139/ssrn.3820666
-#url_code: https://github.com/hannesdatta/webdata-in-marketing
+url_pdf: /files/platformpower.pdf
+url_code: https://github.com/hannesdatta/platformpower
 # url_dataset: ''
 # url_poster: ''
 #url_project: https://odcm.hannesdatta.com
-#url_slides: 'https://pure.uvt.nl/admin/files/38344954/Spotify.pdf'
+url_slides: /files/slides_platformpower.pdf
 # url_source: ''
 #url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
 
