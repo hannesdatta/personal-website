@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-url_pdf: /files/platformpower.pdf
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079693
 url_code: https://github.com/hannesdatta/platformpower
 # url_dataset: ''
 # url_poster: ''
