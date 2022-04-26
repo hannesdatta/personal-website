@@ -1,11 +1,11 @@
 ---
-title: "Fields of Gold: Web Scraping and APIs for Impactful Marketing Insights"
+title: "Fields of Gold: Scraping Web Data for Marketing Insights"
 authors:
 - Johannes Boegershausen
 - admin
 - Abhishek Borah
 - Andrew T. Stephen
-date: "2022-02-02T00:00:00Z"
+date: "2022-04-26T00:00:00Z"
 doi: "10.2139/ssrn.3820666"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +22,7 @@ publication_types: ["2"]
 #publication: "*Marketing Science*, 37 (1), pp. 5-21"
 #publication_short: ""
 
-abstract: Marketing scholars increasingly use web scraping and Application Programming Interfaces (APIs) to collect data from the internet. Yet, despite its widespread adoption across methodological traditions and substantive topics, a reflection about the challenges in collecting such data is lacking. How can researchers ensure that the datasets generated via web scraping and APIs are valid? Existing resources narrowly focus on technical details of extracting web data. These resources do not cover the broad range of validity concerns arising from researchers’ design decisions during the extraction. This article proposes a novel methodological framework that outlines how to maximize validity when selecting, designing, and collecting web data. Importantly, the framework highlights how addressing validity concerns requires the joint consideration of idiosyncratic technical and legal challenges. The authors also demonstrate the impact of web-data-based marketing research, how web data is collected and from which sources, and offer a taxonomy of how web data has advanced marketing thought. The article closes with novel research directions to identify, explore, and exploit new fields of gold filled with web data.
-
+abstract: "Marketing scholars increasingly use web scraping and Application Programming Interfaces (APIs) to collect data from the internet. Yet, despite the widespread use of such web data, the idiosyncratic and sometimes insidious challenges in its collection have received limited attention. How can researchers ensure that the datasets generated via web scraping and APIs are valid? While existing resources emphasize technical details of extracting web data, the authors propose a novel methodological framework focused on enhancing its validity. In particular, the framework highlights how addressing validity concerns requires the joint consideration of idiosyncratic technical and legal/ethical questions along the three stages of collecting web data: selecting data sources, designing the data collection, and extracting the data. The authors further review more than 300 articles using web data published in the top five marketing journals and offer a typology of how web data has advanced marketing thought. The article concludes with directions for future research to identify promising web data sources and to embrace novel approaches for using web data to capture and describe evolving marketplace realities."
 
 # Summary. An optional shortened abstract.
 summary: This article develops a methodological framework that guides researchers in collecting data using web scraping and Application Programming Interfaces (APIs).
