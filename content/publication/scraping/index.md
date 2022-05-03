@@ -5,11 +5,10 @@ authors:
 - admin
 - Abhishek Borah
 - Andrew T. Stephen
-date: "2022-04-26T00:00:00Z"
-doi: "10.2139/ssrn.3820666"
+date: "2022-05-02T00:00:00Z"
+doi: "10.1177/00222429221100750"
 
 # Schedule page publish date (NOT publication's date).
-
 publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
@@ -47,11 +46,11 @@ featured: true
 
 links:
 
-url_pdf: https://dx.doi.org/10.2139/ssrn.3820666
-url_code: https://github.com/hannesdatta/webdata-in-marketing
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00222429221100750?journalCode=jmxa
+url_code: https://github.com/hannesdatta/webdata-website
 # url_dataset: ''
 # url_poster: ''
-url_project: https://odcm.hannesdatta.com
+url_project: https://web-scraping.org
 #url_slides: 'https://pure.uvt.nl/admin/files/38344954/Spotify.pdf'
 # url_source: ''
 #url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
