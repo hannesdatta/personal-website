@@ -4,6 +4,7 @@ summary: Sharing some of my successful and unsuccessful NWO Veni grant applicati
 tags:
 - grants
 date: "2020-05-01T00:00:00Z"
+lastmod: "2022-05-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,5 +33,5 @@ In 2016 and 2017, I have applied for a VENI grant from [NWO](https://www.nwo.nl/
 Here, I'd like to share the application material, reviewer evaluations, and my responses to the reviewers. Maybe it helps in preparing your own grant applications.
 
 - [2016 material](/files/Veni2016_HDatta.zip) (didn't make it)
-- [2017 material](/files/Veni2017_HDatta.zip) (did make it)
+- 2017 material (did make it; [application](/files/Veni2017_HDatta.zip), [end report](/files/Veni2017_endreport.pdf))
 - [video explaining my application process](https://videocollege.uvt.nl/Mediasite/Play/38c4b6d09de440b19370daf018d9ea4d1d)
