@@ -3,7 +3,8 @@ title: "What Drives Demand for Playlists on Spotify?"
 authors:
 - Max J. Pachali
 - admin
-date: "2022-03-18T00:00:00Z"
+date: "2022-07-21T00:00:00Z"
+
 #doi: "10.2139/ssrn.3820666"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,33 +21,39 @@ publication_types: ["0"]
 #publication: "*Marketing Science*, 37 (1), pp. 5-21"
 #publication_short: ""
 
-abstract: "We study the drivers of playlist demand on Spotify — the leading music streaming platform. Our analysis relies on a unique data set that combines daily listener data for about 12,000 popular playlists with data on how prominently these playlists are featured on the platform. We model how users choose playlists and decompose demand into three major drivers: (i) persistent, time-invariant user preferences for playlists, (ii) users' responsiveness to featured playlists, and (iii) the popularity of tracks on a playlist. First, our results show that users have strong, persistent tastes for playlists owned and curated by Spotify, underscoring how important Spotify's playlist brands are for attracting and retaining listeners. Second, users value prominently featured playlists, illustrating how Spotify can effectively guide consumer attention on its platform. Third, and compared to the first two drivers, users respond less strongly to the addition or removal of (popular) tracks on a playlist, pointing to a limited role of major-label content in attracting listeners. Using our demand estimates, we quantify the asymmetric revenue dependency between digital platforms and major record labels. We conclude with recommendations on how power asymmetries between digital platforms and their suppliers could be mitigated."
+abstract: "We study the drivers of playlist demand on Spotify. We base our analysis on a unique panel data set that combines aggregate listener data for 12,000+ popular playlists with data on how prominently these playlists are featured in the Spotify app. We decompose demand for playlists into three major drivers: (i) time-invariant user preferences for playlists, (ii) users' responsiveness to featured playlists, and (iii) the popularity of tracks on a playlist. 
+
+Our results demonstrate that users have strong preferences for playlists curated by Spotify, underscoring the importance of platform-curated playlists for stimulating consumption. Users also value featured playlists in the app, illustrating how Spotify can effectively guide attention to a selected set of playlists. In comparison, users respond weakly to the addition of  popular tracks to playlists, pointing to a limited role of popular major label content in attracting listeners. 
+
+Our demand estimates reveal that revenues of content suppliers asymmetrically depend on Spotify’s decisions about playlist compositions and playlist featuring. We provide novel evidence for a much lower power of the major labels, and thus music producers more broadly, compared to Spotify. We conclude with recommendations on how power asymmetries between digital platforms and their suppliers could be mitigated."
 
 # Summary. An optional shortened abstract.
 summary: We quantify the power balance between digital platforms (Spotify) and their suppliers (major music labels Sony, Warner, and Universal), using a structural demand model and data collected from Chartmetric.com.
 
 tags:
 - playlist choice
-- playlist brand equity
-- major label power
-- platform power
+- music stream
+- digital economy
+- platforms
+- major record labels
+
 
 featured: true
 
 links:
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079693
-url_code: https://github.com/hannesdatta/platformpower
+# url_code: https://github.com/hannesdatta/platformpower
 # url_dataset: ''
 # url_poster: ''
-#url_project: https://odcm.hannesdatta.com
+# url_project: https://odcm.hannesdatta.com
 url_slides: /files/slides_platformpower.pdf
 # url_source: ''
-#url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
+# url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Invariant playlist preferences (brand equity), by curator type'
+  caption: 'Spotify curates most playlists with the highest time-invariant playlist preferences.'
   focal_point: ""
   preview_only: false
 
@@ -55,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['changing-their-tune']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
