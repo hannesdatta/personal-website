@@ -47,13 +47,13 @@ featured: true
 links:
 
 url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00222429221100750?journalCode=jmxa
-url_code: https://github.com/hannesdatta/webdata-website
+url_code: https://github.com/hannesdatta/webdata-journal-of-marketing
 # url_dataset: ''
 # url_poster: ''
 url_project: https://web-scraping.org
-#url_slides: 'https://pure.uvt.nl/admin/files/38344954/Spotify.pdf'
+url_slides: 'https://web-scraping.org/data/webdata_public.pdf'
 # url_source: ''
-#url_video: 'https://www.youtube.com/watch?v=7aK55ClEuEw'
+url_video: 'https://youtu.be/KiyFyLEkqNk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
