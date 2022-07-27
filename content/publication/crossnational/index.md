@@ -41,7 +41,7 @@ url_code: https://github.com/hannesdatta/marketingmix-journal-of-marketing-resea
 # url_poster: ''
 # url_project: ''
 url_source: https://doi.org/10.34894/EVPJTY
-url_slides: /files/jmr2022_slides.zip
+url_slides: /files/jmr2022_slides.pptx
 
 
 # Featured image
