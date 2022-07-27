@@ -41,6 +41,8 @@ url_code: https://github.com/hannesdatta/marketingmix-journal-of-marketing-resea
 # url_poster: ''
 # url_project: ''
 url_source: https://doi.org/10.34894/EVPJTY
+url_slides: /files/jmr2022_slides.zip
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -56,7 +58,9 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
+#slides: /files/jmr2022_slides.pdf
+
+#slides: "Slides (Powerpoint)"  (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
