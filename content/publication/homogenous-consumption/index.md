@@ -1,10 +1,10 @@
 ---
-title: "Streaming Services and the Homogenization of Music Consumption"
+title: "Platform-Guided Consumption Similarity"
 authors:
 - George Knox
 - admin
-date: "2020-07-23T00:00:00Z"
-doi: ""
+date: "2022-06-30T00:00:00Z"
+doi: "10.2139/ssrn.4236521"
 
 # Schedule page publish date (NOT publication's date).
 
@@ -20,7 +20,7 @@ publication_types: ["2"]
 #publication: "*Marketing Science*, 37 (1), pp. 5-21"
 #publication_short: ""
 
-abstract: Given massive assortments and limited consumer knowledge, platforms may homogenize consumption by steering consumers to the same content. To study this issue, we analyze music consumption for pairs of consumers around the time they adopt Spotify, a major music streaming platform. We find that Spotify adoption indeed makes listening behavior more similar across consumers, and we interpret this by decomposing the effect in two parts. First, Spotify expands the size of the consumption set, increasing expected listening similarity even in the absence of any platform-directed coordination. Second, after adjusting for consumption set expansion, the adoption of Spotify decreases similarity in content consumption. These effects increase over time and are stronger for heavy users. Rather than steering large groups of consumers to the same content, this paper, therefore, suggests streaming services expand yet individualize listening behavior, something consumers likely find valuable. We discuss implications for consumers, artists, labels, and marketers.
+abstract: Consumers across many industries face massive assortments and limited product knowledge. By promoting certain content, online platforms affect what users discover and consume. Policymakers worry that platforms may use their power to extract better terms from producers rather than guiding users to content that best matches their tastes. Do platforms guide large groups of users to the same content? Could this be interpreted as harming consumers, e.g., if the content is mismatched? To study these questions, we analyze music consumption for pairs of consumers around the time they adopt Spotify, a major music streaming platform. We find that users listen to substantially more of the same content after joining Spotify. However, this increase in consumption similarity is almost entirely explained by adopters consuming more variety overall instead of switching consumption to the same content. After accounting for increased variety and differential quality of content, the adoption effect either disappears or is modestly positive, depending on the specification. Heavy and new users see a larger similarity effect than light and old users. Rather than steering consumers to the same content, this paper suggests that music streaming platforms expand listening behavior while leaving aggregate diversity largely unchanged, something which consumers and artists likely find valuable.
 
 # Summary. An optional shortened abstract.
 summary: Do streaming platforms individualize or homogenize consumption? In this article, we show that pairs of users consume more of the same content after they start to use Spotify. This effect is largely driven by users' increase in usage, and not initiated from platform-directed search (e.g., playlists, recommendations).
@@ -29,14 +29,14 @@ tags:
 - streaming platforms
 - music consumption
 - variety
-- recommendation algorithms
+- similarity
+- policy
 
 featured: true
 
 links:
 
-url_pdf: https://research.tilburguniversity.edu/en/publications/streaming-services-and-the-homogenization-of-music-consumption
-
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236521
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
