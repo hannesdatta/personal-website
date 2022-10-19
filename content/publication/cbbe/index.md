@@ -17,7 +17,7 @@ publishDate: "2017-05-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Marketing*, 81 (3), p. 1-20"
+publication: "*Journal of Marketing*, 81 (3), pp. 1-20"
 publication_short: ""
 
 abstract: Brand equity is the differential preference and response to marketing effort that a product obtains because of its brand identification. Brand equity can be measured based on either consumer perceptions or on sales. Consumer-based brand equity (CBBE) measures what consumers think and feel about the brand, whereas sales-based brand equity (SBBE) is the brand intercept in a choice or market share model. This paper studies the extent to which CBBE manifests itself in SBBE and marketing mix response using ten years of IRI scanner and Brand Asset Valuator (BAV) data for 290 brands spanning 25 packaged good categories. It uncovers a fairly strong positive association of SBBE with three dimensions of CBBE – Relevance, Esteem, and Knowledge – but a slight negative correspondence with the fourth dimension, Energized Differentiation. It also reveals new insights on the category characteristics that moderate the CBBE-SBBE relationship, and documents a more nuanced association of the CBBE dimensions with response to the major marketing mix variables than heretofore assumed. Implications are discussed for academic researchers who predict and test the impact of brand equity, for market researchers who measure it, and for marketers who want to translate their brand equity into marketplace success.
