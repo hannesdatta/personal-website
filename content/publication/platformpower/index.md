@@ -53,7 +53,7 @@ url_slides: /files/slides_platformpower.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Spotify curates most playlists with the highest time-invariant playlist preferences.'
+  caption: 'Spotify features a selected set of playlists on the "Search Page".'
   focal_point: ""
   preview_only: false
 
