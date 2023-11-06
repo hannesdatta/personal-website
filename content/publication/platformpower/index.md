@@ -3,7 +3,7 @@ title: "What Drives Demand for Playlists on Spotify?"
 authors:
 - Max J. Pachali
 - admin
-date: "2022-07-21T00:00:00Z"
+date: "2023-11-03T00:00:00Z"
 
 #doi: "10.2139/ssrn.3820666"
 
@@ -21,14 +21,14 @@ publication_types: ["0"]
 #publication: "*Marketing Science*, 37 (1), pp. 5-21"
 #publication_short: ""
 
-abstract: "We study the drivers of playlist demand on Spotify. We base our analysis on a unique panel data set that combines aggregate listener data for 12,000+ popular playlists with data on how prominently these playlists are featured in the Spotify app. We decompose demand for playlists into three major drivers: (i) time-invariant user preferences for playlists, (ii) users' responsiveness to featured playlists, and (iii) the popularity of tracks on a playlist. 
+abstract: "We provide estimates of the drivers of playlist followers on Spotify. We base our analysis on a unique panel data set for 30,000+ popular playlists and combine it with data on how prominently these playlists are featured in the Spotify app. 
 
-Our results demonstrate that users have strong preferences for playlists curated by Spotify, underscoring the importance of platform-curated playlists for stimulating consumption. Users also value featured playlists in the app, illustrating how Spotify can effectively guide attention to a selected set of playlists. In comparison, users respond weakly to the addition of  popular tracks to playlists, pointing to a limited role of popular major label content in attracting listeners. 
+Using two-way fixed effects and staggered synthetic difference in difference models, we compare the effect of two important demand factors in our data—featuring playlists on Spotify’s Search Page and adding songs by exceptionally popular major label artists to playlists. We find that users prefer to follow playlists featured in the app. According to our estimates, being featured on the Search Page raises daily playlist followers by 0.95%—which is about two times larger than the effect on followers of including a song by an exceptionally popular major label artist (0.45%). 
 
-Our demand estimates reveal that revenues of content suppliers asymmetrically depend on Spotify’s decisions about playlist compositions and playlist featuring. We provide novel evidence for a much lower power of the major labels, and thus music producers more broadly, compared to Spotify. We conclude with recommendations on how power asymmetries between digital platforms and their suppliers could be mitigated."
+Our examination of playlist demand has two important implications. First, Spotify can effectively guide user attention to certain playlists, fueling concerns among industry executives and artists about its potential to favor some producers by promoting selected content. Second, popular artists signed with major labels play an important role in attracting followers to playlists on Spotify. "
 
 # Summary. An optional shortened abstract.
-summary: We quantify the power balance between digital platforms (Spotify) and their suppliers (major music labels Sony, Warner, and Universal), using a structural demand model and data collected from Chartmetric.com.
+summary: We quantify the drivers of playlist demand on Spotify, zooming in on the role of playlist featuring (on Spotify's Search Page) and adding content from major labels to playlists.
 
 tags:
 - playlist choice
