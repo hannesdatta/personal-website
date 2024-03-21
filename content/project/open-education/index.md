@@ -1,6 +1,6 @@
 ---
 title: Open education
-summary: An overview about the various open education classes I am involved in.
+summary: An overview about the various open education classes I've developed.
 
 tags:
 - open science

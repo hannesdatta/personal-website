@@ -83,7 +83,7 @@ research in the area of digital media consumption (e.g., on streaming services, 
 
 My work has been published, among others, in the [*Journal of Marketing*](https://www.ama.org/journal-of-marketing/), [*Journal of Marketing Research*](https://www.ama.org/journal-of-marketing-research), and [*Marketing Science*](https://pubsonline.informs.org/journal/mksc). My work has obtained national and international [news coverage](https://research.tilburguniversity.edu/en/persons/hannes-datta/clippings/).
 
-I serve on the editorial review boards of the *Journal of Marketing* (since 2020), *International Journal of Research in Marketing* (since 2021), and *Marketing Science* (starting 2022). I was named an [*MSI Young Scholar*](https://www.msi.org/research/msi-young-scholars/) (2019). For my research, I have won the *Journal of Marketing's* [H. Paul Root Award](http://www.msi.org/research/awards/msi-h.-paul-root-award/) (2017), and was nominated as a finalist for the 2022 Sheth Foundation/Journal of Marketing Award.
+I serve on the editorial review boards of the *Journal of Marketing* (since 2020), *Journal of Marketing Research* (since 2023), *International Journal of Research in Marketing* (since 2021), and *Marketing Science* (since 2022). I was named an [*MSI Young Scholar*](https://www.msi.org/research/msi-young-scholars/) (2019). For my research, I have won the *Journal of Marketing's* [H. Paul Root Award](http://www.msi.org/research/awards/msi-h.-paul-root-award/) (2017), and was nominated as a finalist for the 2022 Sheth Foundation/Journal of Marketing Award.
 
 <!-- My teaching has been awarded with Tilburg University's Teacher of the Year Award (2016), and Tilburg School of Economics and Management's Best Teacher Award (2019).-->
 

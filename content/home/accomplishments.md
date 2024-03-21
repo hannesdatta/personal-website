@@ -19,6 +19,36 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Tilburg University"
+  organization_url = "https://www.tilburguniversity.edu/research/young-academy"
+  title = "Top 3 - Best Teacher Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-01-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Tilburg School of Economics and Management"
+  organization_url = "https://research.tilburguniversity.edu/en/persons/hannes-datta"
+  title = "Teaching Innovation Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-01-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Journal of Marketing Research"
+  organization_url = "https://www.ama.org/journal-of-marketing-research-editorial-review-board/"
+  title = "Member of the editorial review board"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Sheth Foundation/Journal of Marketing Award Finalist"
   organization_url = "https://journals.sagepub.com/home/jmx"
   title = "Finalist for the 2022 Sheth Foundation/Journal of Marketing Award"
@@ -79,9 +109,9 @@ date_format = "2006"
     description = ""
 
 [[item]]
-  organization = "Tilburg University"
+  organization = "Tilburg School of Economics and Management"
   organization_url = "https://research.tilburguniversity.edu/en/persons/hannes-datta"
-  title = "Faculty-wide recognition for Teaching Excellence"
+  title = "Teaching Excellence Award"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"

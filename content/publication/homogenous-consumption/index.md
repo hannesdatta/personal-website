@@ -32,7 +32,7 @@ tags:
 - similarity
 - policy
 
-featured: true
+featured: false
 
 links:
 

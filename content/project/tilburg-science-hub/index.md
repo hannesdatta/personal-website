@@ -1,6 +1,7 @@
 ---
 title: Tilburg Science Hub
-summary: An open-source resource repository that supports students and researchers to efficiently manage data-intensive projects.
+summary: An open science learning platform visited by 20,000+ students and researchers worldwide.
+weight: 1
 
 tags:
 - open science
@@ -18,4 +19,8 @@ url_code: "https://github.com/tilburgsciencehub/website"
 
 ---
 
-Tilburg Science Hub is an open-source platform that supports students and researchers to efficiently manage data-intensive projects. Next to documenting the *process of doing research*, the site hosts several tutorials and workflow templates that get you started improving your research productivity instantly.
+I have created Tilburg Science Hub as an open source learning platform for students and researchers interested in open science. On the platform, users can discover how to efficiently manage data-intensive projects using open source tools. Next to documenting the *process of doing research*, the site hosts several tutorials and workflow templates that get you started improving your research productivity instantly.
+
+I am running Tilburg Science Hub jointly with Tobias Klein, Shrabastee Banerjee, Lachlan Deer and Alexander Vossen (JADS), as well as a team of about 10 research assistants recruited from various schools at Tilburg University. Kickstarted with a 750,000 EUR grant from Tilburg School of Economics and Management, Tilburg Science Hub currently is being integrated with Tilburg University, maximizing its benefits to the entire Tilburg research community.
+
+With more than 20,000 monthly visitors from around the world, Tilburg Science Hub has become a key resource to learn about how to implement open science in research projects. 
