@@ -1,5 +1,5 @@
 ---
-title: music-to-scrape.org | Learn scraping and APIs
+title: music-to-scrape.org
 summary: A mock-up retail store to learn how to use web scraping and APIs for research.
 weight: 3
 

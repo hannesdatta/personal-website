@@ -18,6 +18,17 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Journal of Marketing"
+  organization_url = "https://www.ama.org/journal-of-marketing-outstanding-reviewers/"
+  title = "Outstanding Reviewer Award"
+  url = ""
+  #certificate_url = "https://www.ama.org/journal-of-marketing-outstanding-reviewers/"
+  date_start = "2024-04-01"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "Tilburg University"
   organization_url = "https://www.tilburguniversity.edu/research/young-academy"

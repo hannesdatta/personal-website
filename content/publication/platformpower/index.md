@@ -3,7 +3,8 @@ title: "What Drives Demand for Playlists on Spotify?"
 authors:
 - Max J. Pachali
 - admin
-date: "2023-11-03T00:00:00Z"
+#date: "2023-11-03T00:00:00Z"
+date: "2024-04-26T00:00:00Z"
 
 #doi: "10.2139/ssrn.3820666"
 
@@ -15,10 +16,10 @@ date: "2023-11-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Marketing Science*, 37 (1), pp. 5-21"
+publication: "*Marketing Science*, forthcoming"
 #publication_short: ""
 
 abstract: "We provide estimates of the drivers of playlist followers on Spotify. We base our analysis on a unique panel data set for 30,000+ popular playlists and combine it with data on how prominently these playlists are featured in the Spotify app. 

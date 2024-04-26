@@ -17,8 +17,8 @@ publishDate: "2024-03-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Retailing*, forthcoming."
-#publication_short: ""
+publication: "*Journal of Retailing*, 100 (1), pp. 130-147"
+#publication_short: "*Journal of Retailing*"
 
 abstract: "Web data collected via web scraping and application programming interfaces (APIs) has opened many new avenues for retail innovations and research opportunities. Yet, despite the abundance of online data on retailers, brands, products, and consumers, its use in retailing research remains limited. To spur the increased use of web data, we aim to achieve three goals. First, we review existing retailing applications using web data. Second, we demystify the use of web data by discussing its value in the context of existing retail data sets and to-be-constructed primary web datasets. Third, we provide a hands-on guide to help retailing researchers incorporate web data collection into their research routines. Our paper is accompanied by a mock-up digital retail store (music-to-scrape.org) that researchers and students can use to learn to collect web data using web scraping and APIs."
 

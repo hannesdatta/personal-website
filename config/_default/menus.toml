@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Impact"
+  name = "Teaching & Impact"
   url = "project/"
   weight = 30
 
@@ -28,10 +28,10 @@
   url = "https://www.dropbox.com/scl/fi/g3ho3vfewtbf9lanzymgh/Datta_CV_Tilburg.pdf?rlkey=xzpuo0m94envpprkvidgrnqch&dl=0"
   weight = 50
 
-[[main]]
-  name = "Thesis supervision"
-  url = "https://thesis.hannesdatta.com"
-  weight = 60
+#[[main]]
+#  name = "Thesis supervision"
+#  url = "https://thesis.hannesdatta.com"
+#  weight = 60
 
 [[main]]
   name = "Contact"
