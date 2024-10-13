@@ -171,7 +171,7 @@ date_format = "2006"
 
 [[item]]
   organization = "Journal of Marketing/Marketing Science Institute (MSI)"
-  organization_url = "https://www.msi.org/research/awards/msi-h.-paul-root-award/"
+  organization_url = "https://www.ama.org/marketing-science-institute-h-paul-root-award/"
   title = "Winner of the 2017 AMA/MSI H. Paul Root Award"
   url = "https://www.msi.org/research/awards/msi-h.-paul-root-award/"
   certificate_url = ""
